@@ -16,16 +16,15 @@
 
 <h3>🛠 技术栈 <br> &nbsp;&nbsp;&nbsp;&nbsp; Tech Stack</h3>
 
-- 💻 编程语言/Programming language : &nbsp; Java | Python | Go | C/C++  
-- 🌐 研究方向/Research direction : &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 数据库/Database : &nbsp; MySQL | Firebase | Xampp
+- 💻 编程语言/Programming language : &nbsp; Java | Python | Go | C/C++ | Linux | Vue | React | PHP
+- 🌐 研究方向/Research direction : &nbsp; Software Dev | AI | Big data | Small program | Web crawler | Application Dev
+- 🛢 数据库/Database : &nbsp; MySQL | Redis | MongoDB
 - 🔧 开发工具/DevTools : &nbsp; IDEA | Git | Maven | VS Code | WebStorm | Navicat | MobaXterm | Photoshop 
-- 🖥 其他/Other : &nbsp;
+- 🖥 其他/Other : &nbsp; 
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
