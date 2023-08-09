@@ -1,17 +1,18 @@
 <h2> Welcome to 智博程序园/Zhibo Program Park ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
 
 <h3> 👨🏻‍💻 关于我 <br> &nbsp;&nbsp;&nbsp;&nbsp; About Me </h3>
 
-- 🔭 <b>基本信息/Basic information：</b>智博程序园 | 男 | 软件工程 | 3年计算机领域探险经验 
+- 🔭 <b>简介/Profile：</b>智博程序园 | 男 | 软件工程 | 3年计算机领域探险经验 
 <br>Zhibo Program Park | Male | Software engineering | 3 years of exploration experience in computer field
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🤔 <b>作品/Works：</b> <a href="https://docs.qq.com/doc/DUFFRVWladXVjeUxW" target="_blank">挚友汇 --寻知己 觅伙伴</a>
+<br>额
+- 🌱 <b>忠告/Advise：</b> 问题
+<br>额
+- ✍️ <b>未来/Future：</b> 坚持学习，提升技术，1-3年内在IT领域占有一席之地。
+<br>Keep learning, improve technology, and occupy a place in the IT field within 1-3 years.
+- ☕ <b>合作/Cooperation：</b>
 
 <hr>
 
