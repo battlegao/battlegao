@@ -6,8 +6,8 @@
 
 - 🔭 <b>简介/Profile：</b>智博程序园 | 男 | 软件工程 | 3年计算机领域探险经验 
 <br>Zhibo Program Park | Male | Software engineering | 3 years of exploration experience in computer field
-- 🤔 <b>作品/Works：</b> <a href="https://docs.qq.com/doc/DUFFRVWladXVjeUxW" target="_blank">挚友汇 --寻知己 觅伙伴</a>
-<br>额
+- 🤔 <b>作品/Works：</b> <a href="https://docs.qq.com/doc/DUFFRVWladXVjeUxW" target="_blank">挚友汇 --寻知己 觅伙伴</a>|
+      <a href="https://docs.qq.com/doc/DUFFRVWladXVjeUxW" target="_blank">挚友汇 --寻知己 觅伙伴</a>
 - 🌱 <b>忠告/Advise：</b> 问题
 <br>额
 - ✍️ <b>未来/Future：</b> 坚持学习，提升技术，1-3年内在IT领域占有一席之地。
