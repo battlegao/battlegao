@@ -22,6 +22,10 @@
 - 🔧 开发工具/DevTools : &nbsp; IDEA | Git | Maven | VS Code | WebStorm | Navicat | MobaXterm | Photoshop 
 - 🖥 其他/Other : &nbsp; 
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=battlegao&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
