@@ -1,4 +1,4 @@
-<h2> Welcome! I'm 智博程序园/Zhibo Program Park. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Welcome to 智博程序园/Zhibo Program Park ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -20,22 +20,22 @@
 - 🌐 研究方向/Research direction : &nbsp; Software Dev | AI | Big data | Small program | Web crawler | Application Dev
 - 🛢 数据库/Database : &nbsp; MySQL | Redis | MongoDB
 - 🔧 开发工具/DevTools : &nbsp; IDEA | Git | Maven | VS Code | WebStorm | Navicat | MobaXterm | Photoshop 
-- 🖥 其他/Other : &nbsp; 
+<!-- 🖥 其他/Other : &nbsp; --> 
 
-## Github Stats  
+## 年汇总/Github Stats  
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=battlegao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,87CEFA,87CEEB,00FFFF,48D1CC&theme=graywhite&locale=cn" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=battlegao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,87CEFA,87CEEB,00FFFF,48D1CC&theme=graywhite&locale=cn" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=battlegao&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" align="center" style="width: 100%"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=battlegao&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" align="left" style="width: 100%"  />
 
 </td></tr></table>  
   
 
-## My Skill Set  
+## 技能墙/My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
