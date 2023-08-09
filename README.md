@@ -13,6 +13,8 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
+<hr>
+
 <h3>🛠 技术栈 <br> &nbsp;&nbsp;&nbsp;&nbsp; Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | Java | C++  
@@ -21,7 +23,6 @@
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
-<br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -82,9 +83,17 @@
 
 <br/>  
 
+<br/>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=battlegao&show_icons=true)
+
+<br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=battlegao)](https://github.com/battlegao/github-readme-stats)
+<hr>
+
 
 
 
