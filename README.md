@@ -1,10 +1,11 @@
 <h2> Welcome to 智博程序园/Zhibo Program Park ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
 <h3> 👨🏻‍💻 关于我 <br> &nbsp;&nbsp;&nbsp;&nbsp; About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 <b>基本信息/Basic information：</b>智博程序园 | 男 | 软件工程 | 3年计算机领域探险经验 
+<br>Zhibo Program Park | Male | Software engineering | 3 years of exploration experience in computer field
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
