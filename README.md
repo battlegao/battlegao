@@ -12,7 +12,9 @@
 <br>额
 - ✍️ <b>未来/Future：</b> 坚持学习，提升技术，1-3年内在IT领域占有一席之地。
 <br>Keep learning, improve technology, and occupy a place in the IT field within 1-3 years.
-- ☕ <b>合作/Cooperation：</b>  <b>微信/WeChat：</b> <a href="https://gitee.com/g-abo/battlegao/raw/master/MyFiles/Pictures/wechats/wechat.jpg" target="_blank"> zbcxy_parking </a>
+- ☕ <b>合作/Cooperation：</b>  <b>微信/WeChat：</b> 
+<a href="https://github.com/battlegao/battlegao/blob/6a1cb720e5cb1dac7bc6e6b51dde7d67b1c05886/MyFiles/Picture/WeChat/wechat2.jpg
+" target="_blank"> zbcxy_parking </a>
 
 <hr>
 
