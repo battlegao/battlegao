@@ -22,7 +22,7 @@
 - 🔧 开发工具/DevTools : &nbsp; IDEA | Git | Maven | VS Code | WebStorm | Navicat | MobaXterm | Photoshop 
 <!-- 🖥 其他/Other : &nbsp; --> 
 
-## 年汇总/Github Stats  
+## 汇总/Github Stats  
 
 <table><tr><td valign="top" width="50%">
 
