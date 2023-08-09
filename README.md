@@ -16,11 +16,11 @@
 
 <h3>🛠 技术栈 <br> &nbsp;&nbsp;&nbsp;&nbsp; Tech Stack</h3>
 
-- 💻 编程语言/Programming language &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 开发工具/DevTools&nbsp; IDEA | Git | Maven | VS Code | WebStorm | Navicat | MobaXterm | Photoshop 
+- 💻 编程语言/Programming language : &nbsp; Java | Python | Go | C/C++  
+- 🌐 研究方向/Research direction : &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 数据库/Database : &nbsp; MySQL | Firebase | Xampp
+- 🔧 开发工具/DevTools : &nbsp; IDEA | Git | Maven | VS Code | WebStorm | Navicat | MobaXterm | Photoshop 
+- 🖥 其他/Other : &nbsp;
 
 
 ## My Skill Set  
