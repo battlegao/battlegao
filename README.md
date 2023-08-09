@@ -9,8 +9,9 @@
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=battlegao&show_icons=true&theme=tokyonight)
 
 
-My ![Visitor Count](https://profile-counter.glitch.me/battlegao/count.svg) Visitor !
+<h4 align="center">Visitor's count :eyes:</h4>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{battlegao}/count.svg" alt="battlegao :: Visitor's Count" /></p>
 
 
 
