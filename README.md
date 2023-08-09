@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 关于我 <br> &nbsp;&nbsp;&nbsp;&nbsp; About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -13,7 +13,7 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 技术栈 <br> &nbsp;&nbsp;&nbsp;&nbsp; Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | Java | C++  
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
@@ -88,9 +88,12 @@
 
 
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=battlegao&show_icons=true&theme=tokyonight)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=battlegao&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
 
+<!-- 站点访问人数 -->
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{battlegao}/count.svg" alt="battlegao :: Visitor's Count" /></p>
@@ -106,8 +109,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me <!--  --> about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
