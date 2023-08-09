@@ -81,10 +81,8 @@
 
 <br/>  
 
-
 <hr>
 
-<br/>  
 
 <!-- 站点访问人数 -->
 <h4 align="center">Visitor's count :eyes:</h4>
