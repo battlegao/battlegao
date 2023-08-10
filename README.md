@@ -20,11 +20,11 @@
 
 <h3>🛠 技术栈 <br> &nbsp;&nbsp;&nbsp;&nbsp; Tech Stack</h3>
 
-- 💻 编程语言/Programming language : &nbsp; Java | Python | Go | C/C++ | Linux | Vue | React | PHP
-- 🌐 研究方向/Research direction : &nbsp; Software Dev | AI | Big data | Small program | Web crawler | Application Dev
-- 🛢 数据库/Database : &nbsp; MySQL | Redis | MongoDB
-- 🔧 开发工具/DevTools : &nbsp; IDEA | Git | Maven | VS Code | WebStorm | Navicat | MobaXterm | Photoshop 
-<!-- 🖥 其他/Other : &nbsp; --> 
+- 💻 <b>编程语言/Programming language :</b> &nbsp; Java | Python | Go | C/C++ | Linux | Vue | React | PHP
+- 🌐 <b>研究方向/Research direction : </b>&nbsp; Software Dev | AI | Big data | Small program | Web crawler | Application Dev
+- 🛢 <b>数据库/Database : </b>&nbsp; MySQL | Redis | MongoDB
+- 🔧 <b>开发工具/DevTools : </b>&nbsp; IDEA | Git | Maven | VS Code | WebStorm | Navicat | MobaXterm | Photoshop 
+<!-- 🖥 <b>其他/Other : </b>&nbsp; --> 
 
 ## 汇总/Github Stats  
 
