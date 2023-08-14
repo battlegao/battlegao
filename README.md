@@ -22,7 +22,6 @@
 
 - 💻 <b>编程语言/Programming language :</b> &nbsp; Java | Python | C语言 | Linux | Vue | PHP | React
 - 🌐 <b>研究方向/Research direction : </b>&nbsp; Software Dev | AI | Big data | Small program | Web crawler | Application Dev
-- 🔧 <b>开发工具/DevTools : </b>&nbsp; IDEA | Git | Maven | VS Code | WebStorm | Navicat | MobaXterm | Photoshop 
 - 🖥 <b>框架/Frame : </b>&nbsp; Spring | Spring Boot | MyBatis | MyBatis-Plus | SSM 
 - 🛢 <b>数据库/Database : </b>&nbsp; MySQL | Redis | MongoDB
 - 📫  <b>其他/Other : </b>&nbsp; RabbitMQ | ElasticSearch | JS/TS | ElementUI | Ant Design Pro
