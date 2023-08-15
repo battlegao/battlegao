@@ -9,7 +9,7 @@
 - 🤔 <b>作品/Works：</b> <a href="https://github.com/battlegao/confidants-back-master" target="_blank"> 挚友汇/Best friend Hui</a> |
       <a href="https://github.com/battlegao/zbbi-back-master" target="_blank">智博BI平台/Zhibo BI platform</a>
 - 🌱 <b>职向/Career orientation：</b> 后端/Backend | 人工智能/AI | 全栈/Full stack 
-- ✍️ <b>未来/Future：</b> 坚持学习，提升技术，1-3年内在IT领域占有一席之地。
+- ✍️ <b>未来/Future：</b> 坚持学习，提升技术，短时间内在IT领域占有一席之地。
 <br>Keep learning, improve technology, and occupy a place in the IT field within 1-3 years.
 - ☕ <b>微信/WeChat：</b> 
 <a href="https://github.com/battlegao/battlegao/blob/6a1cb720e5cb1dac7bc6e6b51dde7d67b1c05886/MyFiles/Picture/WeChat/wechat2.jpg
