@@ -96,7 +96,7 @@
 
 </td></tr></table>  
 
-<br/>  
+ 
 
 <hr>
 
@@ -106,6 +106,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{battlegao}/count.svg" alt="battlegao :: Visitor's Count" /></p>
 
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
 
 <!--
