@@ -99,6 +99,7 @@
  
 
 <hr>
+
 ![Dino](https://github.com/battlegao/battlegao/blob/0e10f6431607f2e6752c03fcadd08ef55cad875f/MyFiles/Picture/GitHub-Pictures/rundino.gif)
 
 <!-- 站点访问人数 -->
