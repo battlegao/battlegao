@@ -99,14 +99,12 @@
  
 
 <hr>
-
+![Dino](https://github.com/battlegao/battlegao/blob/0e10f6431607f2e6752c03fcadd08ef55cad875f/MyFiles/Picture/GitHub-Pictures/rundino.gif)
 
 <!-- 站点访问人数 -->
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{battlegao}/count.svg" alt="battlegao :: Visitor's Count" /></p>
-
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
 
 <!--
