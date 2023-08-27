@@ -1,6 +1,6 @@
 <h2>欢迎访问智博程序园！/ Welcome to Zhibo Program Park! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
+<img align="right" alt="GIF" src="https://github.com/battlegao/battlegao/blob/143b487233b0bac0c1a74b166e03d77af614e64c/MyFiles/Picture/GitHub-Pictures/onecode.gif" width="40%"/>
 
 <h3> 👨🏻‍💻 关于我 <br> &nbsp;&nbsp;&nbsp;&nbsp; About Me </h3>
 
