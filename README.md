@@ -32,7 +32,8 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=battlegao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,87CEFA,87CEEB,00FFFF,48D1CC&theme=graywhite&locale=cn" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=battlegao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,87CEFA,87CEEB,00FFFF,48D1CC&theme=graywhite&locale=cn" align="left" 
+      style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
